@@ -1,0 +1,3 @@
+﻿  tcpclient.c
+C:\Users\e1900292\source\repos\SocketProgramming\TCPclient\tcpclient.c(30,22): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  TCPclient.vcxproj -> C:\Users\e1900292\source\repos\SocketProgramming\x64\Debug\TCPclient.exe
